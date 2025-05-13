@@ -1,1 +1,2 @@
 # Image-Search
+Javascript project
